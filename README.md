@@ -10,4 +10,4 @@ The project takes in inputs such as trailer links and poster image and the movie
 
 ## More Information 
 * Stack Overflow
-* Udacity Foundation Nanodegree Program
+* Udacity Python Foundation Nanodegree Program
